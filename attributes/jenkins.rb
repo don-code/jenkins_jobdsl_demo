@@ -19,3 +19,4 @@
 
 default['jenkins']['master']['port'] = 8081
 default['jenkins']['master']['endpoint'] = 'http://localhost:8081'
+default['jenkins']['master']['version'] = '1.658-1.1'
